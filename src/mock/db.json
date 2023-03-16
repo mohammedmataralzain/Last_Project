@@ -1,0 +1,852 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "React developer",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "32",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "React developer1",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "React developer1",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "React developer1",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Website design needed",
+      "description": "Hi, I need design for simple one-page weather website. For example, sinoptik.ua. It should contain logo, city selector, weather display and couple or advertisement banners.",
+      "type": {
+        "hourly": {
+          "from": "25",
+          "to": "60"
+        },
+        "fixed": "40"
+      },
+      "proposals": "10 to 15",
+      "rate": "2",
+      "skills": [
+        "Web Design",
+        "JavaScript",
+        "Html",
+        "Css",
+        "Figma"
+      ]
+    }
+  ],
+  "personalInformation": [
+    {
+      "title": "Mohammed Matar",
+      "overview": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\n\n\n\n\n\n",
+      "hourlyRate": "40",
+      "id": "1"
+    }
+  ]
+}
